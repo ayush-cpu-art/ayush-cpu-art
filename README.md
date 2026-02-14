@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ayush-cpu-art/ayush-cpu-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ayush 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech Student | Aspiring Software Developer  
+💻 Interested in Programming, Machine Learning & Problem Solving  
+🚀 Currently learning Data Structures and Web Technologies  
+📚 Exploring GitHub and Open Source  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- C / C++
+- Basic Python
+- HTML & CSS
+- Git & GitHub
+
+## 🎯 Goals
+- Improve problem-solving skills  
+- Contribute to open-source projects  
+- Build real-world projects  
+
+## 📫 Connect with me
+- Email: ayushdev0408@gmail.com
