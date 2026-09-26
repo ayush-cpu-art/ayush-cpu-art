@@ -95,21 +95,6 @@ https://github.com/ayush-cpu-art/Fake-News-Detection
 
 ---
 
-### AI Resume Analyzer
-
-**FastAPI-based intelligent resume analysis system**
-
-Built a web application that analyzes resumes against job requirements and generates structured feedback.
-
-* Implemented resume parsing and ATS-style evaluation
-* Added semantic matching between resumes and job descriptions
-* Built backend APIs using **FastAPI**
-* Integrated **Jinja2** for the web interface
-* Generated automated PDF reports using **ReportLab**
-* Structured the application into modular parsing, evaluation, matching, and reporting components
-
----
-
 ### House Price Prediction
 
 **Machine learning regression and model comparison project**
